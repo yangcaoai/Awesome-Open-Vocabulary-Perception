@@ -27,7 +27,8 @@ If you are interested in related tasks, you can reach me out by discord account:
 ## 2D
 
 ### Open-Vocabulary 2D Object Detection  
-to do
+1. <span id = "16001">[Detclip] [Dictionary-enriched visual-concept paralleled pre-training for open-world detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/3ba960559212691be13fa81d9e5e0047-Paper-Conference.pdf), `NeurIPS2023`
+2. <span id = "16001">[Detclipv2] [Detclipv2: Scalable open-vocabulary object detection pre-training via word-region alignment](http://openaccess.thecvf.com/content/CVPR2023/papers/Yao_DetCLIPv2_Scalable_Open-Vocabulary_Object_Detection_Pre-Training_via_Word-Region_Alignment_CVPR_2023_paper.pdf), `CVPR2023`
 
 ### Open-Vocabulary 2D Segmentation  
 1. <span id = "16001">[ODISE] [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803), `CVPR2023 Highlight`. [[Code](https://github.com/NVlabs/ODISE)]
