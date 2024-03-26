@@ -10,18 +10,18 @@ If you are interested in related tasks, you can reach me out by discord account:
 
 
 ### Open-Vocabulary 3D Object Detection
-1. <span id = "16001">[CoDA] [Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://openreview.net/pdf?id=QW5ouyyIgG), `NeurIPS2023`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)].
-2. <span id = "18001">[OV-3DET] [Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf), `CVPR2023`. [[Code](https://github.com/lyhdet/OV-3DET)].
-3. <span id = "16001">[FM-OV3D] [FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/pdf/2312.14465.pdf), `AAAI2024`. [[Code](https://github.com/dmzhang0425/FM-OV3D)].
+1. <span id = "16001">[CoDA] [Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://openreview.net/pdf?id=QW5ouyyIgG), `NeurIPS2023`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
+2. <span id = "18001">[OV-3DET] [Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf), `CVPR2023`. [[Code](https://github.com/lyhdet/OV-3DET)]
+3. <span id = "16001">[FM-OV3D] [FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/pdf/2312.14465.pdf), `AAAI2024`. [[Code](https://github.com/dmzhang0425/FM-OV3D)]
 
 
 
 
 ### Open-Vocabulary 3D Segmentation
-1. <span id = "16001">[OpenMask3D] [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://openmask3d.github.io/static/pdf/openmask3d.pdf), `NeurIPS2023`. [[Code](https://github.com/OpenMask3D/openmask3d)].
-2. <span id = "16001">[OpenScene] [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/pdf/2211.15654), `CVPR2023`. [[Code](https://github.com/pengsongyou/openscene)].
-3. <span id = "16001">[3D-OVS] [Weakly Supervised 3D Open-vocabulary Segmentation](https://arxiv.org/pdf/2305.14093), `CVPR2023`. [[Code](https://github.com/Kunhao-Liu/3D-OVS)].
-4. <span id = "16001">[PLA] [PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/pdf/2211.16312.pdf), `CVPR2023`. [[Code](https://github.com/CVMI-Lab/PLA)].
+1. <span id = "16001">[OpenMask3D] [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://openmask3d.github.io/static/pdf/openmask3d.pdf), `NeurIPS2023`. [[Code](https://github.com/OpenMask3D/openmask3d)]
+2. <span id = "16001">[OpenScene] [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/pdf/2211.15654), `CVPR2023`. [[Code](https://github.com/pengsongyou/openscene)]
+3. <span id = "16001">[3D-OVS] [Weakly Supervised 3D Open-vocabulary Segmentation](https://arxiv.org/pdf/2305.14093), `CVPR2023`. [[Code](https://github.com/Kunhao-Liu/3D-OVS)]
+4. <span id = "16001">[PLA] [PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/pdf/2211.16312.pdf), `CVPR2023`. [[Code](https://github.com/CVMI-Lab/PLA)]
 
 
 ## 2D
@@ -30,4 +30,4 @@ If you are interested in related tasks, you can reach me out by discord account:
 to do
 
 ### Open-Vocabulary 2D Segmentation  
-1. <span id = "16001">[ODISE] [ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803), `CVPR2023 Highlight`. [[Code](https://github.com/NVlabs/ODISE)].
+1. <span id = "16001">[ODISE] [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803), `CVPR2023 Highlight`. [[Code](https://github.com/NVlabs/ODISE)]
