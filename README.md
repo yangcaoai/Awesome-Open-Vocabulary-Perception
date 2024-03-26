@@ -17,14 +17,17 @@ If you are interested in related tasks, you can reach me out by discord account:
 
 
 
-### Open-Vocabulary 3D Semantic Segmentation
+### Open-Vocabulary 3D Segmentation
+1. <span id = "16001">[OpenMask3D] [OpenMask3D: Open-Vocabulary 3D Instance Segmentation](https://openmask3d.github.io/static/pdf/openmask3d.pdf), `NeurIPS2023`. [[Code](https://github.com/OpenMask3D/openmask3d)].
+2. <span id = "16001">[OpenScene] [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/pdf/2211.15654), `CVPR2023`. [[Code](https://github.com/pengsongyou/openscene)].
+3. <span id = "16001">[3D-OVS] [Weakly Supervised 3D Open-vocabulary Segmentation](https://arxiv.org/pdf/2305.14093), `CVPR2023`. [[Code](https://github.com/Kunhao-Liu/3D-OVS)].
+4. <span id = "16001">[PLA] [PLA: Language-Driven Open-Vocabulary 3D Scene Understanding](https://arxiv.org/pdf/2211.16312.pdf), `CVPR2023`. [[Code](https://github.com/CVMI-Lab/PLA)].
 
-to do
 
 ## 2D
 
 ### Open-Vocabulary 2D Object Detection  
 to do
 
-### Open-Vocabulary 2D Semantic Segmentation  
-to do
+### Open-Vocabulary 2D Segmentation  
+1. <span id = "16001">[ODISE] [ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.04803), `CVPR2023 Highlight`. [[Code](https://github.com/NVlabs/ODISE)].
