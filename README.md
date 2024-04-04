@@ -40,5 +40,5 @@ If you are interested in related tasks, you can reach me out by discord account:
 2. <span id = "16001">[FreeDA] [Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation](https://aimagelab.github.io/freeda/), `CVPR2024`. [[Code](https://aimagelab.github.io/freeda/)]
 3. <span id = "16001">[OVAM] [Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models](https://arxiv.org/pdf/2403.14291), `CVPR2024`. [[Code](https://github.com/vpulab/ovam)]
 4. <span id = "16001">[PnP-OVSS] [Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095), `CVPR2024`. [[Code](https://github.com/vpulab/ovam)]
-5. <span id = "16001">[OVFoodSeg] [OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation](https://arxiv.org/pdf/2404.01409), `CVPR2024`. \
+5. <span id = "16001">[OVFoodSeg] [OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation](https://arxiv.org/pdf/2404.01409), `CVPR2024`. 
 6. <span id = "16001">[SED] [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation](https://arxiv.org/pdf/2311.15537), `CVPR2024`. 
