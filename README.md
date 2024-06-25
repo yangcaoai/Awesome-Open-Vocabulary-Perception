@@ -10,9 +10,10 @@ If you are interested in related tasks, you can reach me out by discord account:
 
 
 ### Open-Vocabulary 3D Object Detection
-1. <span id = "16001">[CoDA] [Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://openreview.net/pdf?id=QW5ouyyIgG), `NeurIPS2023`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
-2. <span id = "18001">[OV-3DET] [Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf), `CVPR2023`. [[Code](https://github.com/lyhdet/OV-3DET)]
-3. <span id = "16001">[FM-OV3D] [FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/pdf/2312.14465.pdf), `AAAI2024`. [[Code](https://github.com/dmzhang0425/FM-OV3D)]
+1. <span id = "16001">[CoDAv2] [Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://arxiv.org/pdf/2406.00830), `Arxiv 2024`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
+2. <span id = "16001">[CoDA] [Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](https://openreview.net/pdf?id=QW5ouyyIgG), `NeurIPS2023`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
+3. <span id = "18001">[OV-3DET] [Open-Vocabulary Point-Cloud Object Detection without 3D Annotation](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf), `CVPR2023`. [[Code](https://github.com/lyhdet/OV-3DET)]
+4. <span id = "16001">[FM-OV3D] [FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection](https://arxiv.org/pdf/2312.14465.pdf), `AAAI2024`. [[Code](https://github.com/dmzhang0425/FM-OV3D)]
 
 
 
