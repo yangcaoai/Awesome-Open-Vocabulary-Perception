@@ -4,8 +4,6 @@ Papers and codes for open-vocabulary perception (3D&2D). 😎
 
 This repo mainly focuses on the open-vocabulary perception tasks (both 3D and 2D). Please pull requests or email me by `yangcao.cs@gmail.com` if you want to recommend papers.   
 
-If you are interested in related tasks, you can reach me out by discord account: yangcao#9724 or WeChat: 85298328912.
-
 ## 3D
 
 
