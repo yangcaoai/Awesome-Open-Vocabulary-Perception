@@ -8,7 +8,7 @@ This repo mainly focuses on the open-vocabulary perception tasks (both 3D and 2D
 
 
 ### Open-Vocabulary 3D Object Detection
-1. <span id = "16001">[CoDAv2] [Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://arxiv.org/pdf/2406.00830), `Arxiv2024`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
+1. <span id = "16001">[CoDAv2] [Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://arxiv.org/pdf/2406.00830), `TPAMI2025`. [[Code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
 2. <span id = "16001">[ImOV3D] [ImOV3D: Learning Open Vocabulary Point Clouds 3D Object Detection from Only 2D Images](https://arxiv.org/pdf/2410.24001), `NeurIPS2024`. [[Code](https://github.com/yangtiming/ImOV3D)]
 3. <span id = "16001">[INHA] [Unlocking textual and visual wisdom: Open-vocabulary 3d object detection enhanced by comprehensive guidance from text and image](https://arxiv.org/pdf/2407.05256), `ECCV2024`.
 4. <span id = "16001">[GLIS] [Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection](https://arxiv.org/pdf/2407.08931), `ECCV2024`. [[Code](https://github.com/GradiusTwinbee/GLIS)]
