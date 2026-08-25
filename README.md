@@ -2,7 +2,7 @@
 
 # Awesome-Open-Vocabulary-Perception  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Papers and codes for open-vocabulary perception (3D&2D). 😎
+Papers and codes for open-vocabulary perception (3D&2D). 
 
 This repo mainly focuses on the open-vocabulary perception tasks (both 3D and 2D). Please pull requests or email me by `yangcao.cs@gmail.com` if you want to recommend papers.   
 
